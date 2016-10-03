@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtOk2CallHint">Check if you agree to get phone call from the event organization</string>
+    <string name="txtInvalidUsername">This number is already registered, please choose a different one</string>
+    <string name="txtPasswordNotMatch">Entered passwords do not match, try again</string>
+    <string name="txtInvalidZipCode">Please enter 5 digit zip code</string>
+    <string name="txtInvalidEmail">Please enter correct email format (e.g. tommmy@usc.edu)</string>
+    <string name="txtSuccessRegister">Registered successfully, you can now log in</string>
+
+    <string name="txtShowLikedEvent">Event saved</string>
+    <string name="txtShowUnlikedEvent">Event unsaved</string>
+</resources>

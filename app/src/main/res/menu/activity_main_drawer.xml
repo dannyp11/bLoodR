@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_bloodrEvents"
+            android:icon="@drawable/blood_donate_icon"
+            android:title="bLoodR Events"
+            />
+        <item
+            android:id="@+id/nav_bloodrMap"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="bLoodR Map" />
+        <item
+            android:id="@+id/nav_interested_bloodrEvents"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="Interested Events" />
+    </group>
+
+    <item android:title="Tweaks">
+        <menu>
+            <item
+                android:id="@+id/nav_edit_profile"
+                android:icon="@drawable/ic_setting_dark"
+                android:title="Edit Profile"
+                />
+            <item
+                android:id="@+id/nav_signout"
+                android:icon="@android:drawable/ic_lock_power_off"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

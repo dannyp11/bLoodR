@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\animator\\enter_anim.xml",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\animator\\enter_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\animator\\exit_anim.xml",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\animator\\exit_anim.xml"
+    }
+]

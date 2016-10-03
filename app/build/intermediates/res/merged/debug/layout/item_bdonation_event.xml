@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="108dp"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:orientation="horizontal"
+    android:id="@+id/layoutEventItem"
+    android:background="@color/colorText"
+    >
+
+    <ImageView
+        android:id="@+id/ivEventItemLogo"
+        android:layout_width="@dimen/dimEventIconPlaceholder"
+        android:layout_height="@dimen/dimEventIconPlaceholder"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvEventItemName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Event name"
+            android:textStyle="bold"
+            android:textSize="@dimen/txtMedium"
+            android:shadowDx="2"
+            android:textColor="@color/colorPrimaryText"
+            />
+
+        <TextView
+            android:id="@+id/tvEventItemLocationDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Org City - mm/dd/yyyy"
+            android:textColor="@color/colorPrimaryText"
+            />
+
+        <TextView
+            android:id="@+id/tvEventItemTimeOrganization"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1-5pm - Organization name"
+            android:textColor="@color/colorPrimaryText"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

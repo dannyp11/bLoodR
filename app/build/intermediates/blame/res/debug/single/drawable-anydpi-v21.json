@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_facebook.xml",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-anydpi-v21\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_twitter.xml",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-anydpi-v21\\ic_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_send.xml",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_share.xml",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_google.xml",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-anydpi-v21\\ic_google.xml"
+    }
+]

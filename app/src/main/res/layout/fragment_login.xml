@@ -1,0 +1,110 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/login_background"
+    tools:context=".Fragments.LoginFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical">
+
+        <!--<ImageView-->
+        <!--android:id="@+id/ivbloodr_logo"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:src="@drawable/logo_large" />-->
+
+        <!--Sign in box-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bloodr_banner"
+                android:layout_gravity="center"
+                android:layout_marginBottom="@dimen/dimEventIconPlaceholder"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="@dimen/activity_vertical_margin"
+                android:capitalize="characters"
+                android:text="@string/tvSignin"
+                android:textColor="@color/colorText"
+                android:textSize="40sp"
+                android:visibility="gone"/>
+
+            <!--username-->
+            <EditText
+                android:id="@+id/etPhoneNumber"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:background="@drawable/textinputborder"
+                android:gravity="center"
+                android:hint="Phone Number"
+                android:inputType="phone"
+                android:minWidth="300dp"
+                android:textColorHint="@color/colorSecondaryText" />
+
+            <!--password-->
+            <EditText
+                android:id="@+id/etPassword"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:background="@drawable/textinputborder"
+                android:gravity="center"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:minWidth="300dp"
+                android:textColorHint="@color/colorSecondaryText" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/btnSignIn"
+                    android:layout_width="@dimen/dimLoginWidth"
+                    android:layout_height="45dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/reg_background_bottom"
+                    android:text="@string/btnSignin"
+                    android:textColor="@color/colorText"
+                    android:textSize="@dimen/txtMedium" />
+
+                <TextView
+                    android:id="@+id/tvRegister"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="@dimen/activity_horizontal_margin"
+                    android:linksClickable="true"
+                    android:text="@string/btnRegister"
+                    android:textColor="@color/colorText"
+                    android:textSize="@dimen/txtMedium" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</FrameLayout>

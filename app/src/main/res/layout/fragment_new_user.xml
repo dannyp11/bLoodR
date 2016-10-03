@@ -1,0 +1,265 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_background"
+    tools:context=".Fragments.NewUserFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:alpha="0.7"
+                android:background="@color/colorPrimary"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:shadowDy="0.2"
+                android:text="Registration Form"
+                android:textColor="@color/colorText"
+                android:textSize="30sp" />
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:alpha="0.8"
+                android:background="@color/colorDivider"
+                android:columnCount="2"
+                android:paddingTop="@dimen/activity_horizontal_margin"
+
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/frag_newuser_margin"
+                    android:text="Phone Number"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txtSmall" />
+
+                <LinearLayout
+                    android:layout_width="@dimen/dimWidthEditTxt"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <EditText
+                        android:id="@+id/etNewUserPhoneNumber"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/dimEditTextHeight"
+                        android:layout_gravity="bottom"
+                        android:layout_weight="1"
+                        android:background="@drawable/textinputborder"
+                        android:hint="Log in user name"
+                        android:inputType="phone"
+                        android:paddingLeft="@dimen/fab_margin"
+                        android:textSize="@dimen/txtSmall" />
+
+                    <ImageView
+                        android:id="@+id/ivNewUserCheckPhone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/ok_icon"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/frag_newuser_margin"
+                    android:text="Password"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txtSmall" />
+
+                <EditText
+                    android:id="@+id/etNewUserPassword"
+                    android:layout_width="@dimen/dimWidthEditTxt"
+                    android:layout_height="@dimen/dimEditTextHeight"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/textinputborder"
+                    android:inputType="textPassword"
+                    android:textColor="@color/colorPrimaryText"
+                    android:paddingLeft="@dimen/fab_margin"
+                    android:textSize="@dimen/txtSmall" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/frag_newuser_margin"
+                    android:text="Confirm Password"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txtSmall" />
+
+                <EditText
+                    android:id="@+id/etNewUserPassword2"
+                    android:layout_width="@dimen/dimWidthEditTxt"
+                    android:layout_height="@dimen/dimEditTextHeight"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/textinputborder"
+                    android:paddingLeft="@dimen/fab_margin"
+                    android:inputType="textPassword"
+                    android:textSize="@dimen/txtSmall" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/frag_newuser_margin"
+                    android:text="Name"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txtSmall" />
+
+                <EditText
+                    android:id="@+id/etNewUserName"
+                    android:layout_width="@dimen/dimWidthEditTxt"
+                    android:layout_height="@dimen/dimEditTextHeight"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/textinputborder"
+                    android:textSize="@dimen/txtSmall"
+                    android:paddingLeft="@dimen/fab_margin"
+
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/frag_newuser_margin"
+                    android:text="Email"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txtSmall" />
+
+                <EditText
+                    android:id="@+id/etNewUserEmail"
+                    android:layout_width="@dimen/dimWidthEditTxt"
+                    android:layout_height="@dimen/dimEditTextHeight"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/textinputborder"
+                    android:inputType="textEmailAddress"
+                    android:paddingLeft="@dimen/fab_margin"
+                    android:textSize="@dimen/txtSmall" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/frag_newuser_margin"
+                    android:text="Birthday"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txtSmall" />
+
+                <EditText
+                    android:id="@+id/etNewUserBirthday"
+                    android:layout_width="@dimen/dimWidthEditTxt"
+                    android:layout_height="@dimen/dimEditTextHeight"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/textinputborder"
+                    android:paddingLeft="@dimen/fab_margin"
+                    android:textSize="@dimen/txtSmall" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/frag_newuser_margin"
+                    android:text="Blood Type"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txtSmall" />
+
+                <Spinner
+                    android:id="@+id/spinnerNewUserBloodType"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:entries="@array/spinnerBloodType"
+                    android:spinnerMode="dropdown"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txtSmall" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/frag_newuser_margin"
+                    android:text="Zip code"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txtSmall" />
+
+                <EditText
+                    android:id="@+id/etNewUserZipCode"
+                    android:layout_width="@dimen/dimWidthEditTxt"
+                    android:layout_height="@dimen/dimEditTextHeight"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/textinputborder"
+                    android:inputType="number"
+                    android:paddingLeft="@dimen/fab_margin"
+                    android:textSize="@dimen/txtSmall" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/frag_newuser_margin"
+                    android:text="Ok to call?"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txtSmall" />
+
+                <LinearLayout android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/cbNewUserOk2Call"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom" />
+
+                    <ImageButton
+                        android:id="@+id/ivNewUserOk2CallHint"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/help" />
+                </LinearLayout>
+            </GridLayout>
+
+            <!-- Register Button area-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/btnNewUserRegister"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="@dimen/activity_vertical_margin"
+                    android:layout_marginRight="@dimen/activity_vertical_margin"
+                    android:background="@drawable/reg_background_bottom"
+                    android:textColor="@color/colorText"
+                    android:textSize="@dimen/txtMedium"
+                    android:text="Register"/>
+
+                <TextView
+                    android:id="@+id/btnNewUserClear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/frag_newuser_margin"
+                    android:text="Clear"
+                    android:textSize="@dimen/txtMedium"
+                    android:textColor="@color/colorText"
+                     />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

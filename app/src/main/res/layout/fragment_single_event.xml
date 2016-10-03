@@ -1,0 +1,178 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="itp341.pham.dat.bloodr.Fragments.SingleEventFragment"
+    android:id="@+id/svSingleEvent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"></TableLayout>
+
+        <ImageView
+            android:id="@+id/ivEventBanner"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimEventBannerHeight"
+            android:alpha="200"
+            android:background="@drawable/banner_placeholder" />
+
+        <TextView
+            android:id="@+id/tvSingleEventName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:text="Event Name"
+            android:textSize="@dimen/txtLarge"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin">
+
+            <ImageView
+                android:id="@+id/ivSingleEventLogo"
+                android:layout_width="@dimen/dimEventIconPlaceholder"
+                android:layout_height="@dimen/dimEventIconPlaceholder"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin" />
+
+            <TextView
+                android:id="@+id/tvSingleEventOrganiaztion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text="Organization name"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+
+        <!-- action buttons-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            >
+
+            <ImageButton
+                android:id="@+id/btnCall"
+                android:layout_width="@dimen/dimIconSmall"
+                android:layout_height="@dimen/dimIconSmall"
+                android:background="@drawable/telephone"
+                />
+
+            <ImageButton
+                android:id="@+id/btnWebsite"
+                android:layout_width="@dimen/dimIconSmall"
+                android:layout_height="@dimen/dimIconSmall"
+                android:background="@drawable/planet_earth"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                />
+
+            <ImageButton
+                android:id="@+id/btnShowInterest"
+                android:layout_width="@dimen/dimIconSmall"
+                android:layout_height="@dimen/dimIconSmall"
+                android:background="@drawable/like"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvSingleEventDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="3"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:paddingLeft="@dimen/activity_vertical_margin"
+            android:scrollbars="vertical"
+            android:text="event description" />
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2">
+
+            <!-- date block-->
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/activity_horizontal_margin"
+                android:background="@android:drawable/ic_menu_my_calendar" />
+
+            <TextView
+                android:id="@+id/tvSingleEventTimeDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="hh:mm am - mm/dd/yyyy" />
+
+            <!-- address block-->
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/activity_horizontal_margin"
+                android:background="@android:drawable/ic_menu_directions" />
+
+            <TextView
+                android:id="@+id/tvSingleEventAddress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="address" />
+
+            <!-- website-->
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/activity_horizontal_margin"
+                android:background="@android:drawable/ic_menu_info_details" />
+
+            <TextView
+                android:id="@+id/tvSingleEventUrl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="www.website.com"
+                android:linksClickable="true"
+                android:autoLink="web"/>
+
+
+        </GridLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- show on Google map-->
+            <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/fragGoogleMap"
+                class="com.google.android.gms.maps.SupportMapFragment"
+                android:layout_width="match_parent"
+                android:layout_height="320dp"
+                android:layout_margin="@dimen/activity_horizontal_margin" />
+
+            <ImageView
+                android:id="@+id/iv_transparent"
+                android:layout_width="match_parent"
+                android:layout_height="320dp"
+                android:src="@android:color/transparent"
+                android:layout_alignTop="@+id/fragGoogleMap"
+
+                />
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

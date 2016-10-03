@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\banner_placeholder.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\banner_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\telephone.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\telephone.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\profile_pic.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\signin_btn.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\signin_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\reg_btn.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\reg_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-tvdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\new_user_btn.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\new_user_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\clear_btn.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\clear_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\blood_donate_icon.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\blood_donate_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-tvdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\fail_icon.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\fail_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-tvdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\unlike.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\unlike.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\like.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\logo_large.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\logo_large.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\cursor.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\planet_earth.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\planet_earth.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\login_background.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\login_background.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ok_icon.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\ok_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-tvdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\bloodr_banner.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\bloodr_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\help.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-tvdpi\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-tvdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    }
+]

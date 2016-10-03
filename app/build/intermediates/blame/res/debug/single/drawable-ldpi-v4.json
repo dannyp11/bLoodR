@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_slideshow.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ok_icon.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\ok_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\planet_earth.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\planet_earth.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_google.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-ldpi-v4\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\profile_pic.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_send.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\new_user_btn.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\new_user_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_manage.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\signin_btn.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\signin_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\blood_donate_icon.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\blood_donate_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cursor.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\clear_btn.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\clear_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_twitter.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-ldpi-v4\\ic_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logo_large.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\logo_large.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\reg_btn.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\reg_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_camera.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\unlike.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\unlike.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\help.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_gallery.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_share.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\like.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_facebook.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-ldpi-v4\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fail_icon.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\fail_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\login_background.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\login_background.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\banner_placeholder.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\banner_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\telephone.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\telephone.png"
+    },
+    {
+        "merged": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bloodr_banner.png",
+        "source": "C:\\Users\\deptr\\Google Drive\\ITP 341\\Workspace\\bLoodR\\app\\src\\main\\res\\drawable-ldpi\\bloodr_banner.png"
+    }
+]
