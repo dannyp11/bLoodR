@@ -19,7 +19,8 @@ timely access to the blood source is critical to both the patients and blood don
 My app will let the donors find nearby blood donation events using his/ her location and let the donor enter his or her blood information to the database. 
 Blood donor could also enter his/ her blood information to the database so that if there’s a nearby emergency case he/she could be reached. 
 Potential donors that match the request could be contacted by the hospital or medical centers. 
-Sources:
+
+Sources: 
 [1] http://www.redcrossblood.org/learn-about-blood/blood-facts-and-statistics
 [2] http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2738310/
 [3] https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=160&ContentID=35
@@ -28,9 +29,9 @@ App description:
 -	App name: bLoodR
 -	Key features:
 	*	Donors can register profile (stored on FireBase), customize their favorite blood donation events (like, save, show interest)
-	•	Donors could find nearby blood donation events.
-	•	Registered organizations could post event detail on database.
-	•	Potential donors can put his/her information in emergency event
-	•	Organizations & hospitals could contact potential donors when emergency situation happens.
+	*	Donors could find nearby blood donation events.
+	*	Registered organizations could post event detail on database.
+	*	Potential donors can put his/her information in emergency event
+	*	Organizations & hospitals could contact potential donors when emergency situation happens.
 -	Target audience: people who are interested in donating blood and medical center/ hospitals that need emergency blood supply.
 -	Implemented technology: database (Firebase), Phone or SMS, location services, Google maps API, Glide images, 
