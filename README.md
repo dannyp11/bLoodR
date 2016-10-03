@@ -1,8 +1,10 @@
 # bLoodR
 
 # Thicker than Blood
-by Dat Pham
+by # Dat Pham
+
 Motivation & Need:
+
 Over the past few decades, humans have improved the medical filed vastly. Modern technology allows us to do things that were considered impossible in the past. 
 For example, we could clone an entire animal only from a single cell. Or doctors could transplant the heart, liver, and even lungs. 
 Even brain restoration is now deemed possible within a decade. With the recently successful bionic limbs that understand and follow the brain’s order, 
